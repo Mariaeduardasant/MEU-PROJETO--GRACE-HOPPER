@@ -1,0 +1,41 @@
+.area-cabecalho{
+    /* border: 1px solid red; */
+     padding: 0.9rem;
+     background-color: #643d3d;
+     text-align: center;
+     width: 1300PX;
+     margin: auto;
+     box-sizing: border-box;
+ }
+ .area-logo, .area-menu{
+    padding: .7rem;
+}
+
+.container {
+    background-color:  #f5a2a2;
+    width: 1300px;
+    margin: auto;
+}
+
+article{
+    background: #643d3d;
+    padding: 0.9rem;
+    color: #fff;
+}
+footer p{
+    color: white;
+    text-align: center;
+}
+h2{
+    color: #e7c0c0;
+    text-align: center;
+}
+
+h1.logo{
+    color: #fff;
+    text-align: center;
+}
+h1{
+    color: #FFF;
+    text-align: center;
+}
